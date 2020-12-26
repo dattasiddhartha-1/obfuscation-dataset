@@ -1,9 +1,10 @@
-# dsource
+# Obfuscation Dataset
 
-The repository currently contains the samples used in the experiment. 
+This is a dataset of pairs of obfuscated:clean code samples. The repository contains the samples used in the experiments for [DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks](https://github.com/dattasiddhartha/DeepObfusCode). 
 
-Further details regarding the project will be updated in due time.
+<h3>To cite this dataset:</h3>
 
+<i>S. Datta. 2020. DeepObfusCode: Source Code Obfuscation Through Sequence-to-Sequence Networks. In Advances in Intelligent Systems and Computing</i>
 
 
 Sources for the samples:
